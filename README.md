@@ -1,3 +1,5 @@
+Hey you, I'm Thais! 
+
 🖥️ Enthusiastic Web Developer
 😷 Bachelor Dentist
 ❤️‍🔥 Passionate about IT
