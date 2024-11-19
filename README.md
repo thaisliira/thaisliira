@@ -30,10 +30,6 @@
 <a href="https://www.linkedin.com/in/thaisrioss/">
     <img alt="LinkedIn" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/thaislirar">
-    <img alt="Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-</a>
-
 </div>
 
   
