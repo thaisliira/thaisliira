@@ -1,16 +1,12 @@
 <h1>Olá! Eu sou a Thaís 👋</h1>
 
-### 🎨 Desenvolvedora Web (Foco em Front-End) | Full-Stack em Evolução
+### 🎨 Software Developer | Full-Stack em Evolução
 
-Com uma formação em Odontologia, descobri que minha paixão pela **resolução de problemas e atenção aos detalhes** se aplica perfeitamente ao mundo do desenvolvimento web. Sou entusiasta de tecnologia e estou focada em construir experiências digitais eficientes e amigáveis, com uma base sólida para crescer no Full-Stack!
+Com uma formação em Odontologia, descobri que minha paixão pela **resolução de problemas e atenção aos detalhes** se aplica perfeitamente ao mundo de TI. Sou entusiasta de tecnologia e estou focada em construir experiências digitais eficientes e amigáveis para crescer no Full-Stack!
 
 ---
 
-## 🛠️ Minha Stack Técnica
-
-Uma desenvolvedora que se adapta e está sempre pronta para aprender!
-
-### 💻 Conhecimento Sólido (Front-End & Base Full-Stack)
+### 💻 Conhecimento 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -22,7 +18,7 @@ Uma desenvolvedora que se adapta e está sempre pronta para aprender!
 
 ### 📚 Próximos Passos (Em Aprendizado)
 
-Focada em expandir para desenvolvimento **Back-End** robusto (com Java) e aprofundar em **algoritmos e estrutura de dados**.
+Focada em expandir para desenvolvimento **Back-End** (com Java) e aprofundar em **algoritmos e estrutura de dados**.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
@@ -39,8 +35,6 @@ Focada em expandir para desenvolvimento **Back-End** robusto (com Java) e aprofu
 ---
 
 ## 🤝 Vamos Conectar!
-
-Estou sempre aberta para conversas sobre tecnologia, desenvolvimento ou oportunidades.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/thaisrioss/">
