@@ -38,9 +38,8 @@ Focada em expandir para desenvolvimento **Back-End** (com Java) e aprofundar em 
 
 ## 🤝 Vamos Conectar!
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/thaisrioss">
-        <img alt="LinkedIn" width="30px" target="_blank" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-    </a>
-</p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/thaisrioss/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
   
