@@ -1,5 +1,7 @@
 <h1>Olá! Eu sou a Thaís 👋</h1>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ### 🎨 Software Developer | Full-Stack em Evolução
 
 Com uma formação em Odontologia, descobri que minha paixão pela **resolução de problemas e atenção aos detalhes** se aplica perfeitamente ao mundo de TI. Sou entusiasta de tecnologia e estou focada em construir experiências digitais eficientes e amigáveis para crescer no Full-Stack!
