@@ -39,7 +39,7 @@ Focada em expandir para desenvolvimento **Back-End** (com Java) e aprofundar em 
 ## 🤝 Vamos Conectar!
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/thaisrioss/" title="LinkedIn" target="_blank">
+    <a href="https://www.linkedin.com/in/thaisrioss/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
   
