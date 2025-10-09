@@ -1,14 +1,8 @@
-<div align="center">
-    
-    <h1>Olá! Eu sou a Thaís 👋</h1>
-    
-    ### 🎨 Desenvolvedora Web (Foco em Front-End) | Full-Stack em Evolução
-    
-    <p>
-        Com uma formação em Odontologia, descobri que minha paixão pela <strong>resolução de problemas e atenção aos detalhes</strong> se aplica perfeitamente ao mundo do desenvolvimento web. Sou entusiasta de tecnologia e estou focada em construir experiências digitais eficientes e amigáveis, com uma base sólida para crescer no Full-Stack!
-    </p>
+<h1>Olá! Eu sou a Thaís 👋</h1>
 
-</div>
+### 🎨 Desenvolvedora Web (Foco em Front-End) | Full-Stack em Evolução
+
+Com uma formação em Odontologia, descobri que minha paixão pela **resolução de problemas e atenção aos detalhes** se aplica perfeitamente ao mundo do desenvolvimento web. Sou entusiasta de tecnologia e estou focada em construir experiências digitais eficientes e amigáveis, com uma base sólida para crescer no Full-Stack!
 
 ---
 
@@ -18,25 +12,21 @@ Uma desenvolvedora que se adapta e está sempre pronta para aprender!
 
 ### 💻 Conhecimento Sólido (Front-End & Base Full-Stack)
 
-<div align="center">
-    
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-    <br> ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 
 ### 📚 Próximos Passos (Em Aprendizado)
 
 Focada em expandir para desenvolvimento **Back-End** robusto (com Java) e aprofundar em **algoritmos e estrutura de dados**.
 
-<div align="center">
-    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
-    ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-</div>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 ---
 
@@ -52,10 +42,9 @@ Focada em expandir para desenvolvimento **Back-End** robusto (com Java) e aprofu
 
 Estou sempre aberta para conversas sobre tecnologia, desenvolvimento ou oportunidades.
 
-<div align="center">
+<p align="center">
     <a href="https://www.linkedin.com/in/thaisrioss/">
         <img alt="LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
     </a>
-    </div>
-
+</p>
   
