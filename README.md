@@ -36,12 +36,3 @@ Current focus on expanding into Back-End development while deepening knowledge i
 
 ✨ Goal: To contribute to innovative projects and continuously grow within the tech field, exploring both creative Front-End solutions and efficient Back-End architecture.
 
----
-
-## 🤝 Let's talk!
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/thaisrioss/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-  
