@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### 🎨 Software Developer | Full-Stack em Evolução
+### 🎨 Software Developer | Full-Stack in Evolution
 
 Trained in Dentistry, I found my passion for problem-solving and attention to detail translates seamlessly to the world of technology. I am a tech enthusiast focused on building efficient, user-friendly digital experiences while developing Full-Stack skills.
 
