@@ -1,14 +1,14 @@
-<h1>Olá! Eu sou a Thaís 👋</h1>
+<h1>Hey! I am Thaís 👋</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### 🎨 Software Developer | Full-Stack em Evolução
 
-Com uma formação em Odontologia, descobri que minha paixão pela **resolução de problemas e atenção aos detalhes** se aplica perfeitamente ao mundo de TI. Sou entusiasta de tecnologia e estou focada em construir experiências digitais eficientes e amigáveis para crescer no Full-Stack!
+Trained in Dentistry, I found my passion for problem-solving and attention to detail translates seamlessly to the world of technology. I am a tech enthusiast focused on building efficient, user-friendly digital experiences while developing Full-Stack skills.
 
 ---
 
-### 💻 Conhecimento 
+### 💻 Knowledge
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -18,9 +18,9 @@ Com uma formação em Odontologia, descobri que minha paixão pela **resolução
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
-### 📚 Próximos Passos (Em Aprendizado)
+### 📚 Next Steps (Em Aprendizado)
 
-Focada em expandir para desenvolvimento **Back-End** (com Java) e aprofundar em **algoritmos e estrutura de dados**.
+Current focus on expanding into Back-End development while deepening knowledge in algorithms and data structures.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
@@ -28,15 +28,17 @@ Focada em expandir para desenvolvimento **Back-End** (com Java) e aprofundar em 
 
 ---
 
-## 🌟 Sobre Mim
+## 🌟 About Me
 
-* 🧠 **Mindset**: Adoro abraçar a mudança, estou pronta para novos desafios e levo minha **capacidade analítica** da minha formação em Odontologia (😷) para o código.
-* 🌍 **Hobbies**: Adoro viajar e explorar novas culturas, o que me ensina a ser **adaptável e observadora**.
-* ✨ **Objetivo**: Contribuir para projetos inovadores e **crescer continuamente** na área de TI, explorando o Front-End criativo e o Back-End eficiente.
+🧠 Skills & Mindset: I love embracing change and am always ready for new challenges. I bring my analytical skills and attention to detail from my background in Dentistry (😷) directly into the code.
+
+🌍 Approach: I enjoy traveling and exploring new cultures which constantly sharpens my ability to be adaptable and highly observant.
+
+✨ Goal: To contribute to innovative projects and continuously grow within the tech field, exploring both creative Front-End solutions and efficient Back-End architecture.
 
 ---
 
-## 🤝 Vamos Conectar!
+## 🤝 Let's talk!
 
 <div align="center">
     <a href="https://www.linkedin.com/in/thaisrioss/" title="LinkedIn">
