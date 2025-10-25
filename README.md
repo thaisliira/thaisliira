@@ -18,7 +18,7 @@ Trained in Dentistry, I found my passion for problem-solving and attention to de
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
-### 📚 Next Steps (still learning)
+### 📚 Next Steps (learning)
 
 Current focus on expanding into Back-End development while deepening knowledge in algorithms and data structures.
 
