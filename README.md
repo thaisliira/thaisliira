@@ -1,6 +1,13 @@
-<h1>Hey! I am Thaís 👋</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thaisliira&style=flat-square&color=ff69b4&label=Profile+Views" alt="Profile Views" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F728E9&center=true&vCenter=true&multiline=true&width=500&height=30&lines=Codificando+o+futuro,+uma+linha+de+cada+vez."/>
+  <br/></div>
+
+  <h1>Hey! I am Thaís 👋</h1>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="350px" width="400px" align="right">
 
 ### 🎨 Software Developer | Full-Stack in Evolution
 
@@ -8,7 +15,7 @@ Trained in Dentistry, I found my passion for problem-solving and attention to de
 
 ---
 
-### 💻 Knowledge
+### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
