@@ -30,8 +30,9 @@ Trained in Dentistry, I found my passion for problem-solving and attention to de
 Current focus on expanding into Back-End development while deepening knowledge in algorithms and data structures.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
 
 ---
 
