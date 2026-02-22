@@ -44,3 +44,11 @@ Current focus on expanding into Back-End development while deepening knowledge i
 
 ✨ Goal: To contribute to innovative projects and continuously grow within the tech field, exploring both creative Front-End solutions and efficient Back-End architecture.
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisliira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisliira&layout=compact&theme=radical"/>
+</div>
