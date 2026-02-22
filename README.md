@@ -23,16 +23,19 @@ Trained in Dentistry, I found my passion for problem-solving and attention to de
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 
 ### 📚 Next Steps (learning)
 
 Current focus on expanding into Back-End development while deepening knowledge in algorithms and data structures.
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ---
 
@@ -49,6 +52,6 @@ Current focus on expanding into Back-End development while deepening knowledge i
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisliira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisliira&layout=compact&theme=radical"/>
+  <img height="180em"
+  src="https://streak-stats.demolab.com?user=thaisliira&theme=rose_pine"/>
 </div>
