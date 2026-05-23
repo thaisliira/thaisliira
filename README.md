@@ -3,7 +3,7 @@
   <img 
     src="https://github.com/thaisliira/thaisliira/blob/main/images/bann_tha.gif?raw=true" 
     alt="Banner de Perfil" 
-    style="width: 100%; height: 500px; object-fit: cover; object-position: center; border-radius: 8px;" 
+    style="width: 85%; height: 400px; object-fit: cover; object-position: center; border-radius: 8px;" 
   />
 </div>
 <div align="center">
