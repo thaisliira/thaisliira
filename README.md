@@ -1,7 +1,7 @@
 
 <div align="center">
   <img 
-    src="https://github.com/thaisliira/thaisliira/blob/main/images/bann_tha.gif?raw=true" 
+    src="https://github.com/thaisliira/thaisliira/blob/main/images/banner_thai.gif?raw=true" 
     alt="Banner de Perfil" 
     style="width: 85%; height: 400px; object-fit: cover; object-position: center; border-radius: 8px;" 
   />
