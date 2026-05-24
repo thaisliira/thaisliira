@@ -16,10 +16,6 @@
 
 </div>
 
-<div>
-  <h1>Hi, I'm Thaís Lira 👋</h1>
-</div>
-
 ---
 
 ### 🎨 About Me
